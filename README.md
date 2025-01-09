@@ -23,3 +23,5 @@ Trying to catch burglars &amp; motinor temp&amp;humidity
   -- Add a .dockerignore File
   -- Build the Docker Image
   -- Run the Docker Container
+
+![image](https://github.com/user-attachments/assets/50fe4afa-0d09-44f4-8fce-ffb068c99ec7)
