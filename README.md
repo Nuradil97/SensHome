@@ -1,5 +1,5 @@
 # SensHome
-Trying to catch burglars &amp; motinor temp&amp;humidity
+Trying to catch burglars &amp; motinor temp&amp;humidity using Smart Sensor @Tektelic (https://tektelic.com/products/sensors/comfort-base-smart-room-sensor/)
 
 ## Features
 - Real-time motion detection and alerts.
